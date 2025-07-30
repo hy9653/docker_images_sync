@@ -34,7 +34,7 @@ while IFS= read -r image; do
         continue
     fi
 
-    name=$(echo "${image}" | cut -d '/' -f2 |sed -r 's/@sha256.*/:res/)
+    name=$(echo "${image}" | cut -d '/' -f2 |sed -r 's/@sha256.*/:res/g')
     tag=$(echo "${name}" | cut -d ':' -f2)
     targetFullName=${TARGET_REGISTRY}/${TARGET_NAMESPACE}/${name}
 
