@@ -11,8 +11,8 @@ fi
 
 
 IMAGES_FILE=$1
-TARGET_REGISTRY="registry.cn-hangzhou.aliyuncs.com"
-TARGET_NAMESPACE="hyfr"
+TARGET_REGISTRY=$2
+TARGET_NAMESPACE=$3
 
 # 检查文件是否存在
 if [ ! -f "$IMAGES_FILE" ]; then
@@ -36,7 +36,7 @@ while IFS= read -r image; do
 
     name=$(echo "${image}" | cut -d '/' -f2)
     tag=$(echo "${name}" | cut -d ':' -f2)
-    targetFullName=registry.cn-hangzhou.aliyuncs.com/hyfr/${name}
+    targetFullName=${TARGET_REGISTRY}/${TARGET_NAMESPACE}/${name}
 
     # 打阿里云的tag
     docker tag "${image}" "${targetFullName}"
