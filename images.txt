@@ -1,1 +1,1 @@
-openlistteam/openlist@sha256:c20003e2c0aa08b8e2465a3140894c78eb8c341bf8206ae6457e4c6673f26352
+openlistteam/openlist:latest
