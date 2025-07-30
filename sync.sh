@@ -11,8 +11,8 @@ fi
 
 
 IMAGES_FILE=$1
-TARGET_REGISTRY=$2
-TARGET_NAMESPACE=$3
+TARGET_REGISTRY="registry.cn-hangzhou.aliyuncs.com"
+TARGET_NAMESPACE="hyfr"
 
 # 检查文件是否存在
 if [ ! -f "$IMAGES_FILE" ]; then
