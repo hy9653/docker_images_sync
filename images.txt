@@ -1,1 +1,1 @@
-openlistteam/openlist@sha256:dc2121e09373f9be6a71395a26a43c2ce418057fc13043782b91487b9fc2f3c7
+cp0204/quark-auto-save:latest
