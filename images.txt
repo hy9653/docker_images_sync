@@ -1,1 +1,1 @@
-cp0204/quark-auto-save:latest
+surveyking/surveyking
