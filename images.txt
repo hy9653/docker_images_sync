@@ -1,1 +1,1 @@
-cloudflare/cloudflared@sha256:f9af3635e01536d28ca54186d3b945ed6ae494246e9b7045dedfa5a3747d4ccc
+cloudflare/cloudflared@sha256:eadf5a0b20b50a45ead6da1975b93cf7d7690ec7a2c5c8346be3e49f39da1c10
