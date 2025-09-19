@@ -1,1 +1,1 @@
-surveyking/surveyking
+cloudflare/cloudflared:latest
