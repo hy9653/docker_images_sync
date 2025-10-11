@@ -1,1 +1,1 @@
-cloudflare/cloudflared@sha256:eadf5a0b20b50a45ead6da1975b93cf7d7690ec7a2c5c8346be3e49f39da1c10
+cloudflare/cloudflared:latest
