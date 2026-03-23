@@ -1,1 +1,1 @@
-jfzui_80h5
+jfzui/80h5:latest
