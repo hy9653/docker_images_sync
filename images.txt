@@ -1,1 +1,1 @@
-ghcr.io/openclaw/openclaw:latest
+ghcr.io/liangminmx/27h5:latest
