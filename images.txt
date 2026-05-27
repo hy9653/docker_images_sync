@@ -1,1 +1,1 @@
-jfzui/80h5:latest
+finab/bark-server
