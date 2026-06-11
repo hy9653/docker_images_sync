@@ -1,1 +1,1 @@
-finab/bark-server
+facilisvelox/paperphone-plus-server:latest
