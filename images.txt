@@ -1,1 +1,1 @@
-facilisvelox/paperphone-plus-server:latest
+mysql:8.0
