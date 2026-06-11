@@ -1,2 +1,1 @@
-redis:7-alpine
-facilisvelox/paperphone-plus-client:latest
+mlikiowa/napcat:latest
