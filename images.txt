@@ -1,1 +1,1 @@
-mlikiowa/napcat:latest
+nginx:latest
